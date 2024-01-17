@@ -16,3 +16,6 @@ LICENSE
 *.jpeg
 *.jpg
 *bin/*
+*.txt
+*.json
+node_modules
